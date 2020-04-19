@@ -11,3 +11,6 @@ Install them using: <br />
 
 ## License
 GNU General Public License v3.0
+
+## Acknowledgement
+This script is made with the help of <a href="https://docs.genius.com/">Genius API<a> using <a href="https://pypi.org/project/lyricsgenius/0.3/">lyricsgenius<a> library
